@@ -1,57 +1,28 @@
-# Student Management System SQL Project
-
-## 📖 Overview
-This project is a Student Management System developed using PostgreSQL. It demonstrates database design, table relationships, CRUD operations, JOINs, aggregate functions, and advanced SQL queries.
-
-## 🗂️ Database Tables
-- Students
-- Courses
-- Faculty
-- Enrollments
-- Marks
-
-## ✨ Features
-- Manage student information
-- Store course details
-- Manage faculty records
-- Track enrollments
-- Store student marks
-- Perform CRUD operations
-- Execute JOIN queries
-- Use GROUP BY and aggregate functions
-- Retrieve top-performing students
-
-## 🛠️ Technologies Used
-- PostgreSQL
-- pgAdmin 4
-- SQL
-
-## 📁 Project Files
-- create_database.sql
-- create_tables.sql
-- insert_data.sql
-- queries.sql
-
 ## 📸 Screenshots
-- Students Table
-- Courses Table
-- Faculty Table
-- Enrollments Table
-- Marks Table
-- Student-Course JOIN
-- Student-Marks JOIN
-- Top 5 Students
-- Above Average Marks
 
-## 🚀 Skills Demonstrated
-- Database Design
-- Primary & Foreign Keys
-- CRUD Operations
-- JOINs
-- GROUP BY
-- Aggregate Functions
-- Sorting & Filtering
-- Subqueries
+### Students Table
+![Students Table](students_table.png)
 
-## 👩‍💻 Author
-Kapa Sri Lakshmi
+### Courses Table
+![Courses Table](courses_table.png)
+
+### Faculty Table
+![Faculty Table](faculty_table.png)
+
+### Enrollments Table
+![Enrollments Table](enrollments_table.png)
+
+### Marks Table
+![Marks Table](marks_table.png)
+
+### Student-Course JOIN
+![Student Course Join](student_course_join.png)
+
+### Student-Marks JOIN
+![Student Marks Join](student_marks_join.png)
+
+### Top 5 Students
+![Top 5 Students](top5_students.png)
+
+### Above Average Marks
+![Above Average Marks](above_average_marks.png)
